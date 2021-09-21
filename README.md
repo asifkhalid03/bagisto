@@ -111,6 +111,7 @@ In order to do that, run the command below:
 Open the specified entry point in your hosts file in your browser or make an entry in hosts file if not done.
 ~~~
 
+
 ##### On local:
 
 ~~~
