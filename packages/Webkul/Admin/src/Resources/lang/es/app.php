@@ -592,6 +592,9 @@ return [
             'add-video-btn-title' => 'Agregar Video',
             'remove-video-btn-title' => 'Remover Video',
             'not-support-video' => 'Su navegador no soporta la etiqueta video.',
+            'save' => 'Save',
+            'cancel' => 'Cancel',
+            'saved-inventory-message' => 'Product inventory saved successfully.',
         ],
 
         'attributes' => [
@@ -615,6 +618,7 @@ return [
             'options' => 'Opciones',
             'position' => 'Posición',
             'add-option-btn-title' => 'Agregar opción',
+            'load-more-options-btn-title' => 'Load More Options',
             'validations' => 'Validaciones',
             'input_validation' => 'Validación entrada',
             'is_required' => 'Es requerido',
@@ -645,6 +649,9 @@ return [
             'use_in_flat' => "Crear en tabla plana de productos",
             'is_comparable' => "El atributo es comparable",
             'default_null_option' => 'Crear opción vacía por defecto',
+            'validation-messages' => [
+                'max-size' => 'The image size must be less than 600 KB'
+            ],
         ],
         'families' => [
             'title' => 'Familias',

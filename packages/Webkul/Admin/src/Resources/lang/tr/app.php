@@ -574,6 +574,9 @@ return [
             'add-video-btn-title' => 'Add Video',
             'remove-video-btn-title' => 'Remove Video',
             'not-support-video' => 'Your browser does not support the video tag.',
+            'save' => 'Save',
+            'cancel' => 'Cancel',
+            'saved-inventory-message' => 'Product inventory saved successfully.',
         ],
 
         'attributes' => [
@@ -597,6 +600,7 @@ return [
             'options' => 'Seçenekler',
             'position' => 'Konum',
             'add-option-btn-title' => 'Seçenek Ekle',
+            'load-more-options-btn-title' => 'Load More Options',
             'validations' => 'Doğrulamalar',
             'input_validation' => 'Giriş Doğrulaması',
             'is_required' => 'Zorunlu',
@@ -627,6 +631,9 @@ return [
             'use_in_flat' => "Ürün Tablosu Oluştur",
             'is_comparable' => "Nitelik kıyaslanabilir",
             'default_null_option' => 'Varsayılan boş seçenek oluştur',
+            'validation-messages' => [
+                'max-size' => 'The image size must be less than 600 KB'
+            ],
         ],
         'families' => [
             'title' => 'Küme',
